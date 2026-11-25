@@ -49,32 +49,8 @@ The AI tutor uses the learner's stored profile to provide context-aware explanat
 
 ## 5. System Architecture
 
-```text
-          LEARNMATE AI
-                |
-        Flutter Mobile App
-                |
-    +-----------+-----------+
-    |           |           |
- Dashboard   Assessment   Study Planner
-    |           |           |
-    +-----------+-----------+
-                |
-             AI Tutor
-                |
-          MethodChannel
-                |
-       Android Native Layer
-             (Kotlin)
-                |
-          ExecuTorch
-                |
-      Llama 3.2 1B Model
-                |
-       Generated Response
-                |
-        Flutter Chat UI
-```
+<img width="2510" height="1724" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/2cdc2894-9f55-4ee9-8abf-31631cfc42cf" />
+
 
 ## 6. Offline AI Implementation
 
