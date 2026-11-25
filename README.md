@@ -188,9 +188,9 @@ Further testing and optimization are required to improve response quality, perso
 **Project:** LearnMate AI
 
 **Team Members:**
-1. [Team Member 1]
-2. [Team Member 2]
-3. [Team Member 3]
+1. Poojith Prasath M
+2. Jegadeesh S
+3. Mosas Raj A
 
 ## 12. Repository
 
