@@ -92,8 +92,16 @@ learnmate_ai/
 ├── .gitignore
 └── README.md
 ```
+## Application Screenshots
+### Dashboard
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0433307a-97ec-4530-b2f8-f1810fff5527" />
 
-*The exact file structure may vary depending on the current implementation.*
+
+### Learner Assessment
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/23b1af74-438e-4d64-a223-a8a8aa6314b0" />
+
+### AI Tutor
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/321de3c0-0f8b-40f6-b3b1-6d4e79e78e0b" />
 
 ## 8. Getting Started
 
